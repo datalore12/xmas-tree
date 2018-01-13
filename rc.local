@@ -1,0 +1,1 @@
+sudo -u pi python3 /home/user1/main.py
